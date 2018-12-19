@@ -12,7 +12,7 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Li Dong et al. Adaptive Recursive Neural Network for Target-dependent Twitter Sentiment Classification. ACL 2014. [[paper]][4]
 
-- Himabindu Lakkaraju et al. Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. NIPS workshop 2014. [[paper]][5]
+- Himabindu Lakkaraju et al. Aspect Specific Sentiment Analysis using Hierarchical Deep Learning. NIPS 2014 workshop. [[paper]][5]
 
 - Duyu Tang et al. Aspect Level Sentiment Classification with Deep Memory Network. EMNLP 2016. [[paper]][6]
 
