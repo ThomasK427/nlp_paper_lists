@@ -22,6 +22,8 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Ruidan He et al. Exploiting Document Knowledge for Aspect-level Sentiment Classification. ACL 2018. [[paper]][9]
 
+- Yequan Wang et al. Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -31,3 +33,4 @@ This is a paper list for aspect-level sentiment analysis.
 [7]:http://www.aclweb.org/anthology/D15-1298
 [8]:http://aclweb.org/anthology/C/C16/C16-1311.pdf
 [9]:https://arxiv.org/abs/1806.04346
+[10]:http://www.aclweb.org/anthology/D16-1058
