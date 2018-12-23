@@ -24,6 +24,10 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Yequan Wang et al. Attention-based LSTM for Aspect-level Sentiment Classification. EMNLP 2016. [[paper]][10]
 
+- Peisong Zhu, Tieyun Qian. Enhanced Aspect Level Sentiment Classification with Auxiliary Memory. COLING 2018. [[paper]][11]
+
+- Zheng Li et al. Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -34,3 +38,5 @@ This is a paper list for aspect-level sentiment analysis.
 [8]:http://aclweb.org/anthology/C/C16/C16-1311.pdf
 [9]:https://arxiv.org/abs/1806.04346
 [10]:http://www.aclweb.org/anthology/D16-1058
+[11]:http://aclweb.org/anthology/C18-1092
+[12]:https://arxiv.org/abs/1811.10999
