@@ -12,7 +12,10 @@ This is a paper list for generative models, especially for text generation.
 
 - Carl Doersch. Tutorial on Variational Autoencoders. arXiv 2016. [[paper]][4]
 
+- Ilya Tolstikhin et al. Wasserstein Auto-Encoders. ICLR 2018. [[paper]][5]
+
 [1]:https://arxiv.org/abs/1312.6114
 [2]:https://arxiv.org/abs/1406.2661
 [3]:https://arxiv.org/abs/1609.05473
 [4]:https://arxiv.org/abs/1606.05908
+[5]:https://arxiv.org/abs/1711.01558
