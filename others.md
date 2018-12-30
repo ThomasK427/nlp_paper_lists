@@ -8,8 +8,10 @@ This is a paper list for other important neural network archiectures.
 - Jiatao Gu et al. Incorporating Copying Mechanism in Sequence-to-Sequence Learning. ACL 2016. [[paper]][2]
 - Abigail See et al. Get To The Point: Summarization with Pointer-Generator Networks. ACL 2017. [[paper]][3]
 - Kaiming He et al. Deep Residual Learning for Image Recognition. CVPR 2016. [[paper]][4]
+- Junyoung Chung et al. Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling. [[paper]][5]
 
 [1]:https://arxiv.org/abs/1506.03134
 [2]:https://arxiv.org/abs/1603.06393
 [3]:https://arxiv.org/abs/1704.04368
 [4]:https://arxiv.org/abs/1512.03385
+[5]:https://arxiv.org/abs/1412.3555

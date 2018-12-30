@@ -28,6 +28,8 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Zheng Li et al. Exploiting Coarse-to-Fine Task Transfer for Aspect-level Sentiment Classification. AAAI 2019. [[paper]][12]
 
+- Yukun Ma et al. Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM. AAAI 2018. [[paper]][13]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -40,3 +42,4 @@ This is a paper list for aspect-level sentiment analysis.
 [10]:http://www.aclweb.org/anthology/D16-1058
 [11]:http://aclweb.org/anthology/C18-1092
 [12]:https://arxiv.org/abs/1811.10999
+[13]:http://www.sentic.net/sentic-lstm.pdf
