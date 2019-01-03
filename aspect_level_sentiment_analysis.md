@@ -32,6 +32,8 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Shuai Wang et al. Target-Sensitive Memory Networks for Aspect Sentiment Classification. ACL 2018. [[paper]][14]
 
+- Sebastian Ruder et al. A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis. EMNLP 2016. [[paper]][15]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -46,3 +48,4 @@ This is a paper list for aspect-level sentiment analysis.
 [12]:https://arxiv.org/abs/1811.10999
 [13]:http://www.sentic.net/sentic-lstm.pdf
 [14]:http://www.aclweb.org/anthology/P18-1088
+[15]:https://arxiv.org/abs/1609.02745
