@@ -30,6 +30,8 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Yukun Ma et al. Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM. AAAI 2018. [[paper]][13]
 
+- Shuai Wang et al. Target-Sensitive Memory Networks for Aspect Sentiment Classification. ACL 2018. [[paper]][14]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -43,3 +45,4 @@ This is a paper list for aspect-level sentiment analysis.
 [11]:http://aclweb.org/anthology/C18-1092
 [12]:https://arxiv.org/abs/1811.10999
 [13]:http://www.sentic.net/sentic-lstm.pdf
+[14]:http://www.aclweb.org/anthology/P18-1088
