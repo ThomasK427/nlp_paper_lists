@@ -10,6 +10,8 @@ This is a paper list for machine translation.
 
 - Jonas Gehring et al. Convolutional Sequence to Sequence Learning. ICML 2017. [[paper]][3]
 
+- Minh-Thang Luong et al. Effective Approaches to Attention-based Neural Machine Translation. EMNLP 2015. [[paper]][8]
+
 ### attention
 
 - Dzmitry Bahdanau et al. Neural Machine Translation by Jointly Learning to Align and Translate. ICLR 2015. [[paper]][2]
@@ -34,3 +36,4 @@ This is a paper list for machine translation.
 [5]:https://arxiv.org/abs/1808.08946v1
 [6]:https://arxiv.org/abs/1810.13409
 [7]:https://arxiv.org/abs/1804.07755
+[8]:https://arxiv.org/abs/1508.04025v3
