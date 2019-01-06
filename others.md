@@ -16,9 +16,18 @@ This is a paper list for other important neural network archiectures.
 
 - Tiancheng Zhao, Maxine Eskenazi. Zero-Shot Dialog Generation with Cross-Domain Latent Actions. [[paper]][6]
 
+- Yingce Xia et al. Deliberation Networks: Sequence Generation Beyond One-Pass Decoding. NIPS 2017. [[paper]][7]
+
+- Tom Young et al. Recent Trends in Deep Learning Based Natural Language Processing. IEEE Computational Intelligence Magazine 2018. [[paper]][8]
+
+- Nikita Kitaev, Dan Klein. Constituency Parsing with a Self-Attentive Encoder. ACL 2018. [[paper]][9]
+
 [1]:https://arxiv.org/abs/1506.03134
 [2]:https://arxiv.org/abs/1603.06393
 [3]:https://arxiv.org/abs/1704.04368
 [4]:https://arxiv.org/abs/1512.03385
 [5]:https://arxiv.org/abs/1412.3555
 [6]:https://arxiv.org/abs/1805.04803
+[7]:http://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf
+[8]:https://arxiv.org/abs/1708.02709
+[9]:https://arxiv.org/abs/1805.01052

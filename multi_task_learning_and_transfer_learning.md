@@ -8,5 +8,8 @@ This is a paper list for multi-task learning and transfer learning.
 
 - Sebastian Ruder et al. Latent Multi-task Architecture Learning. AAAI 2019. [[paper]][2]
 
+- Victor Sanh et al. A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks. AAAI 2019. [[paper]][3]
+
 [1]:https://arxiv.org/abs/1801.06146v5
 [2]:https://arxiv.org/abs/1705.08142
+[3]:https://arxiv.org/abs/1811.06031

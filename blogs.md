@@ -28,6 +28,8 @@ This is a list of some interesting blogs.
 
 - A Brief Overview of Deep Learning. [[blog]][10]
 
+- Understanding Convolutional Neural Networks for NLP. [[blog]][11]
+
 [1]:http://ruder.io/
 [2]:https://jalammar.github.io/
 [3]:https://colah.github.io/
@@ -38,3 +40,4 @@ This is a list of some interesting blogs.
 [8]:https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 [9]:http://kvfrans.com/variational-autoencoders-explained/
 [10]:https://yyue.blogspot.com/2015/01/a-brief-overview-of-deep-learning.html
+[11]:http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
