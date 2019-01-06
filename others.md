@@ -22,6 +22,8 @@ This is a paper list for other important neural network archiectures.
 
 - Nikita Kitaev, Dan Klein. Constituency Parsing with a Self-Attentive Encoder. ACL 2018. [[paper]][9]
 
+- Xinya Du et al. Learning to Ask: Neural Question Generation for Reading Comprehension. ACL 2017. [[paper]][10]
+
 [1]:https://arxiv.org/abs/1506.03134
 [2]:https://arxiv.org/abs/1603.06393
 [3]:https://arxiv.org/abs/1704.04368
@@ -31,3 +33,4 @@ This is a paper list for other important neural network archiectures.
 [7]:http://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf
 [8]:https://arxiv.org/abs/1708.02709
 [9]:https://arxiv.org/abs/1805.01052
+[10]:https://arxiv.org/abs/1705.00106
