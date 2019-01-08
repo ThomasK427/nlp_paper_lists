@@ -34,6 +34,8 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Sebastian Ruder et al. A Hierarchical Model of Reviews for Aspect-based Sentiment Analysis. EMNLP 2016. [[paper]][15]
 
+- Devamanyu Hazarika et al. Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. NAACL 2018. [[paper]][16]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -49,3 +51,4 @@ This is a paper list for aspect-level sentiment analysis.
 [13]:http://www.sentic.net/sentic-lstm.pdf
 [14]:http://www.aclweb.org/anthology/P18-1088
 [15]:https://arxiv.org/abs/1609.02745
+[16]:http://www.aclweb.org/anthology/N18-2043
