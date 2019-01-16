@@ -24,6 +24,10 @@ This is a paper list for other important neural network archiectures.
 
 - Xinya Du et al. Learning to Ask: Neural Question Generation for Reading Comprehension. ACL 2017. [[paper]][10]
 
+- Xinwei Geng et al. Adaptive Multi-pass Decoder for Neural Machine Translation. EMNLP 2018. [[paper]][11]
+
+- Zi Yin, Yuanyuan Shen. On the Dimensionality of Word Embedding. NIPS 2018. [[paper]][12]
+
 [1]:https://arxiv.org/abs/1506.03134
 [2]:https://arxiv.org/abs/1603.06393
 [3]:https://arxiv.org/abs/1704.04368
@@ -34,3 +38,5 @@ This is a paper list for other important neural network archiectures.
 [8]:https://arxiv.org/abs/1708.02709
 [9]:https://arxiv.org/abs/1805.01052
 [10]:https://arxiv.org/abs/1705.00106
+[11]:http://aclweb.org/anthology/D18-1048
+[12]:https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf
