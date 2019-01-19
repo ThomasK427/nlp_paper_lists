@@ -36,6 +36,14 @@ This is a paper list for aspect-level sentiment analysis.
 
 - Devamanyu Hazarika et al. Modeling Inter-Aspect Dependencies for Aspect-Based Sentiment Analysis. NAACL 2018. [[paper]][16]
 
+- Ruidan He et al. An Unsupervised Neural Attention Model for Aspect Extraction. ACL 2017. [[paper]][17]
+
+- Hu Xu et al. Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction. ACL 2018. [[paper]][18]
+
+- Xin Li et al. Aspect Term Extraction with History Attention and Selective Transformation. IJCAI 2018. [[paper]][19]
+
+- Wenya Wang et al. Coupled Multi-Layer Attentions for Co-Extraction of Aspect and Opinion Terms. AAAI 2017. [[paper]][20]
+
 [1]:https://arxiv.org/abs/1709.00893
 [2]:https://arxiv.org/abs/1805.07043v1
 [3]:http://aclweb.org/anthology/C18-1096
@@ -52,3 +60,7 @@ This is a paper list for aspect-level sentiment analysis.
 [14]:http://www.aclweb.org/anthology/P18-1088
 [15]:https://arxiv.org/abs/1609.02745
 [16]:http://www.aclweb.org/anthology/N18-2043
+[17]:http://aclweb.org/anthology/P/P17/P17-1036.pdf
+[18]:https://arxiv.org/abs/1805.04601v1
+[19]:https://arxiv.org/abs/1805.00760
+[20]:https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/15-Wang-W-14441.pdf
