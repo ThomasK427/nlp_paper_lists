@@ -14,8 +14,17 @@ This is a paper list for generative models, especially for text generation.
 
 - Ilya Tolstikhin et al. Wasserstein Auto-Encoders. ICLR 2018. [[paper]][5]
 
+- Samuel R. Bowman et al. Generating Sentences from a Continuous Space. ICLR 2016. [[paper]][6]
+
+- Yishu Miao et al. Neural Variational Inference for Text Processing. ICML 2016. [[paper]][7]
+
+- Yishu Miao, Phil Blunsom. Language as a Latent Variable: Discrete Generative Models for Sentence Compression. [[paper]][8]
+
 [1]:https://arxiv.org/abs/1312.6114
 [2]:https://arxiv.org/abs/1406.2661
 [3]:https://arxiv.org/abs/1609.05473
 [4]:https://arxiv.org/abs/1606.05908
 [5]:https://arxiv.org/abs/1711.01558
+[6]:https://arxiv.org/abs/1511.06349
+[7]:https://arxiv.org/abs/1511.06038
+[8]:https://arxiv.org/abs/1609.07317
