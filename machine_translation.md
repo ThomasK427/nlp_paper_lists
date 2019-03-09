@@ -10,6 +10,8 @@ This is a paper list for machine translation.
 
 - Jonas Gehring et al. Convolutional Sequence to Sequence Learning. ICML 2017. [[paper]][3]
 
+- Ashish Vaswani et al. Attention Is All You Need. NIPS 2017. [[paper]][4]
+
 ### attention
 
 - Dzmitry Bahdanau et al. Neural Machine Translation by Jointly Learning to Align and Translate. ICLR 2015. [[paper]][2]
@@ -19,10 +21,6 @@ This is a paper list for machine translation.
 - Gongbo Tang et al. Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures. EMNLP 2018. [[paper]][5]
 
 - Ofir Press, Noah A. Smith. You May Not Need Attention. arXiv preprint 2018. [[paper]][6]
-
-### transformer
-
-- Ashish Vaswani et al. Attention Is All You Need. NIPS 2017. [[paper]][4]
 
 ### Unsupervised
 
