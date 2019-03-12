@@ -28,7 +28,7 @@ This is a paper list for generative models, especially for text generation.
 
 - Yishu Miao et al. Neural Variational Inference for Text Processing. ICML 2016. [[paper]][7]
 
-- Yishu Miao, Phil Blunsom. Language as a Latent Variable: Discrete Generative Models for Sentence Compression. [[paper]][8]
+- Yishu Miao, Phil Blunsom. Language as a Latent Variable: Discrete Generative Models for Sentence Compression. EMNLP 2016. [[paper]][8]
 
 [1]:https://arxiv.org/abs/1312.6114
 [2]:https://arxiv.org/abs/1406.2661
