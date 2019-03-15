@@ -12,7 +12,10 @@ This is a paper list for neural network training.
 
 - Wojciech Zaremba et al. Recurrent Neural Network Regularization. arXiv preprint 2014. [[paper]][4]
 
+- Shuai Li et al. Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN. CVPR 2018. [[paper]][5]
+
 [1]: http://www.jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf?utm_content=buffer79b43&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 [2]: https://arxiv.org/abs/1502.03167
 [3]: https://arxiv.org/abs/1607.06450
 [4]: https://arxiv.org/abs/1409.2329
+[5]: https://arxiv.org/abs/1803.04831
