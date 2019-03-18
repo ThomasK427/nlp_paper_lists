@@ -22,6 +22,8 @@ This is a paper list for machine translation.
 
 - Ofir Press, Noah A. Smith. You May Not Need Attention. arXiv preprint 2018. [[paper]][6]
 
+- Tobias Domhan. How Much Attention Do You Need?A Granular Analysis of Neural Machine Translation Architectures. ACL 2018. [[paper]][10]
+
 ### Unsupervised
 
 - Guillaume Lample et al.Phrase-Based & Neural Unsupervised Machine Translation. EMNLP 2018. [[paper]][7]
@@ -40,3 +42,4 @@ This is a paper list for machine translation.
 [7]:https://arxiv.org/abs/1804.07755
 [8]:https://arxiv.org/abs/1508.04025v3
 [9]:https://arxiv.org/abs/1601.00710
+[10]:https://www.aclweb.org/anthology/P18-1167
