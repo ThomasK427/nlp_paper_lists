@@ -26,6 +26,8 @@ This is a paper list for machine translation.
 
 - Tobias Domhan. How Much Attention Do You Need?A Granular Analysis of Neural Machine Translation Architectures. ACL 2018. [[paper]][10]
 
+- Mia Xu Chen et al. The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation. ACL 2018. [[paper]][12]
+
 ### Unsupervised
 
 - Guillaume Lample et al.Phrase-Based & Neural Unsupervised Machine Translation. EMNLP 2018. [[paper]][7]
@@ -46,3 +48,4 @@ This is a paper list for machine translation.
 [9]:https://arxiv.org/abs/1601.00710
 [10]:https://www.aclweb.org/anthology/P18-1167
 [11]:https://arxiv.org/abs/1609.08144
+[12]:https://arxiv.org/abs/1804.09849
