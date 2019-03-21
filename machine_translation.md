@@ -12,6 +12,8 @@ This is a paper list for machine translation.
 
 - Ashish Vaswani et al. Attention Is All You Need. NIPS 2017. [[paper]][4]
 
+- Yonghui Wu et al. Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation. arXiv 2016. [[paper]][11]
+
 ### attention
 
 - Dzmitry Bahdanau et al. Neural Machine Translation by Jointly Learning to Align and Translate. ICLR 2015. [[paper]][2]
@@ -43,3 +45,4 @@ This is a paper list for machine translation.
 [8]:https://arxiv.org/abs/1508.04025v3
 [9]:https://arxiv.org/abs/1601.00710
 [10]:https://www.aclweb.org/anthology/P18-1167
+[11]:https://arxiv.org/abs/1609.08144
