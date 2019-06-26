@@ -16,9 +16,9 @@ This is a paper list for memory network.
 
 - Mingxuan Wang et al. Memory-enhanced Decoder for Neural Machine Translation. [[paper]][6]
 
-[1]:https://arxiv.org/pdf/1410.3916.pdf
-[2]:https://arxiv.org/abs/1503.08895
-[3]:https://arxiv.org/abs/1410.5401
-[4]:https://arxiv.org/abs/1511.06392
-[5]:https://arxiv.org/abs/1606.01792
-[6]:https://arxiv.org/abs/1606.02003
+[1]:http://xxx.itp.ac.cn/pdf/1410.3916.pdf
+[2]:http://xxx.itp.ac.cn/abs/1503.08895
+[3]:http://xxx.itp.ac.cn/abs/1410.5401
+[4]:http://xxx.itp.ac.cn/abs/1511.06392
+[5]:http://xxx.itp.ac.cn/abs/1606.01792
+[6]:http://xxx.itp.ac.cn/abs/1606.02003

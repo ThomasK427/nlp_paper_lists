@@ -10,6 +10,6 @@ This is a paper list for dialogue system.
 
 - Kaisheng Yao et al. Attention with Intention for a Neural Network Conversation Model. arXiv preprint 2015. [[paper]][3]
 
-[1]:https://arxiv.org/abs/1507.04808
-[2]:https://arxiv.org/abs/1605.06069
-[3]:https://arxiv.org/abs/1510.08565v2
+[1]:http://xxx.itp.ac.cn/abs/1507.04808
+[2]:http://xxx.itp.ac.cn/abs/1605.06069
+[3]:http://xxx.itp.ac.cn/abs/1510.08565v2

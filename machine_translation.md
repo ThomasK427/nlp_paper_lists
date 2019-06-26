@@ -29,15 +29,15 @@ This is a paper list for machine translation.
 - Barret Zoph, Kevin Knight. Multi-Source Neural Translation. NAACL 2016. [[paper]][9]
 
 
-[1]: https://arxiv.org/abs/1409.3215
-[2]: https://arxiv.org/abs/1409.0473v7
-[3]: https://arxiv.org/abs/1705.03122
-[4]: https://arxiv.org/abs/1706.03762
-[5]: https://arxiv.org/abs/1808.08946v1
-[6]: https://arxiv.org/abs/1810.13409
-[7]: https://arxiv.org/abs/1804.07755
-[8]: https://arxiv.org/abs/1508.04025v3
-[9]: https://arxiv.org/abs/1601.00710
+[1]: http://xxx.itp.ac.cn/abs/1409.3215
+[2]: http://xxx.itp.ac.cn/abs/1409.0473v7
+[3]: http://xxx.itp.ac.cn/abs/1705.03122
+[4]: http://xxx.itp.ac.cn/abs/1706.03762
+[5]: http://xxx.itp.ac.cn/abs/1808.08946v1
+[6]: http://xxx.itp.ac.cn/abs/1810.13409
+[7]: http://xxx.itp.ac.cn/abs/1804.07755
+[8]: http://xxx.itp.ac.cn/abs/1508.04025v3
+[9]: http://xxx.itp.ac.cn/abs/1601.00710
 [10]: http://www.nlpr.ia.ac.cn/cip/ZongPublications/2015/IEEE-Zhang-8-5.pdf
 [11]: https://www.aclweb.org/anthology/D14-1179
-[12]: https://arxiv.org/pdf/1609.08144.pdf
+[12]: http://xxx.itp.ac.cn/pdf/1609.08144.pdf

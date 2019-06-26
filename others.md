@@ -28,15 +28,15 @@ This is a paper list for other important neural network archiectures.
 
 - Zi Yin, Yuanyuan Shen. On the Dimensionality of Word Embedding. NIPS 2018. [[paper]][12]
 
-[1]:https://arxiv.org/abs/1506.03134
-[2]:https://arxiv.org/abs/1603.06393
-[3]:https://arxiv.org/abs/1704.04368
-[4]:https://arxiv.org/abs/1512.03385
-[5]:https://arxiv.org/abs/1412.3555
-[6]:https://arxiv.org/abs/1805.04803
+[1]:http://xxx.itp.ac.cn/abs/1506.03134
+[2]:http://xxx.itp.ac.cn/abs/1603.06393
+[3]:http://xxx.itp.ac.cn/abs/1704.04368
+[4]:http://xxx.itp.ac.cn/abs/1512.03385
+[5]:http://xxx.itp.ac.cn/abs/1412.3555
+[6]:http://xxx.itp.ac.cn/abs/1805.04803
 [7]:http://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf
-[8]:https://arxiv.org/abs/1708.02709
-[9]:https://arxiv.org/abs/1805.01052
-[10]:https://arxiv.org/abs/1705.00106
+[8]:http://xxx.itp.ac.cn/abs/1708.02709
+[9]:http://xxx.itp.ac.cn/abs/1805.01052
+[10]:http://xxx.itp.ac.cn/abs/1705.00106
 [11]:http://aclweb.org/anthology/D18-1048
 [12]:https://papers.nips.cc/paper/7368-on-the-dimensionality-of-word-embedding.pdf

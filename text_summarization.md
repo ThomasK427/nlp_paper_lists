@@ -12,6 +12,6 @@ This is a paper list for text summarization.
 
 More paper to see [NLP-progress: summarization][3].
 
-[1]:https://arxiv.org/abs/1704.04368
-[2]:https://arxiv.org/abs/1805.11080
+[1]:http://xxx.itp.ac.cn/abs/1704.04368
+[2]:http://xxx.itp.ac.cn/abs/1805.11080
 [3]:https://github.com/sebastianruder/NLP-progress/blob/master/english/summarization.md

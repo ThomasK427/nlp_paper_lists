@@ -30,14 +30,14 @@ This is a paper list for generative models, especially for text generation.
 
 - Yishu Miao, Phil Blunsom. Language as a Latent Variable: Discrete Generative Models for Sentence Compression. EMNLP 2016. [[paper]][8]
 
-[1]:https://arxiv.org/abs/1312.6114
-[2]:https://arxiv.org/abs/1406.2661
-[3]:https://arxiv.org/abs/1609.05473
-[4]:https://arxiv.org/abs/1606.05908
-[5]:https://arxiv.org/abs/1711.01558
-[6]:https://arxiv.org/abs/1511.06349
-[7]:https://arxiv.org/abs/1511.06038
-[8]:https://arxiv.org/abs/1609.07317
-[9]:https://arxiv.org/abs/1804.11258
+[1]:http://xxx.itp.ac.cn/abs/1312.6114
+[2]:http://xxx.itp.ac.cn/abs/1406.2661
+[3]:http://xxx.itp.ac.cn/abs/1609.05473
+[4]:http://xxx.itp.ac.cn/abs/1606.05908
+[5]:http://xxx.itp.ac.cn/abs/1711.01558
+[6]:http://xxx.itp.ac.cn/abs/1511.06349
+[7]:http://xxx.itp.ac.cn/abs/1511.06038
+[8]:http://xxx.itp.ac.cn/abs/1609.07317
+[9]:http://xxx.itp.ac.cn/abs/1804.11258
 [10]:https://www.ijcai.org/proceedings/2018/0618.pdf
-[11]:https://arxiv.org/abs/1802.01345
+[11]:http://xxx.itp.ac.cn/abs/1802.01345
