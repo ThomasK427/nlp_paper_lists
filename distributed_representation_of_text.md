@@ -24,13 +24,13 @@ This is a paper list for distributed representation of text.
 
 - Nal Kalchbrenner et al. A Convolutional Neural Network for Modelling Sentences. ACL 2014. [[paper]][10]
 
-[1]:https://arxiv.org/abs/1301.3781
-[2]:https://arxiv.org/abs/1310.4546
-[3]:https://arxiv.org/abs/1405.4053
+[1]:http://xxx.itp.ac.cn/abs/1301.3781
+[2]:http://xxx.itp.ac.cn/abs/1310.4546
+[3]:http://xxx.itp.ac.cn/abs/1405.4053
 [4]:https://nlp.stanford.edu/pubs/glove.pdf
-[5]:https://arxiv.org/abs/1607.04606
-[6]:https://arxiv.org/abs/1802.05365?context=cs
-[7]:https://arxiv.org/abs/1801.06146
-[8]:https://arxiv.org/abs/1810.04805
-[9]:https://arxiv.org/abs/1703.03130
+[5]:http://xxx.itp.ac.cn/abs/1607.04606
+[6]:http://xxx.itp.ac.cn/abs/1802.05365?context=cs
+[7]:http://xxx.itp.ac.cn/abs/1801.06146
+[8]:http://xxx.itp.ac.cn/abs/1810.04805
+[9]:http://xxx.itp.ac.cn/abs/1703.03130
 [10]:http://www.aclweb.org/anthology/P14-1062
