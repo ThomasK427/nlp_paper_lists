@@ -1,6 +1,6 @@
-# A Paper List for the Distributed Representation of Text
+# A Paper List for the Representation Learning in Natural Language Processing
 
-This is a paper list for distributed representation of text.
+This is a paper list for representation learning in natural language processing.
 
 ## Paper List
 
@@ -28,6 +28,16 @@ This is a paper list for distributed representation of text.
 
 - Zhilin Yang et al. XLNet: Generalized Autoregressive Pretrainingfor Language Understanding. arXiv preprint 2019. [[paper]][12]
 
+- Andy Coenen et al. Visualizing and Measuring the Geometry of BERT. arXiv preprint 2019. [[paper]][13]
+
+- Ian Tenney et al. BERT Rediscovers the Classical NLP Pipeline. arXiv preprint 2019. [[paper]][14]
+
+- Yifan Qiao et al. Understanding the Behaviors of BERT in Ranking. arXiv preprint 2019. [[paper]][15]
+
+- Masahiro Kaneko, Mamoru Komachi. Multi-Head Multi-Layer Attention to DeepLanguage Representations for GrammaticalError Detection. arXiv preprint 2019. [[paper]][16]
+
+- Matthew E. Peters et al. To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks. arXiv preprint 2019. [[paper]][17]
+
 [1]: http://xxx.itp.ac.cn/abs/1301.3781
 [2]: http://xxx.itp.ac.cn/abs/1310.4546
 [3]: http://xxx.itp.ac.cn/abs/1405.4053
@@ -40,3 +50,8 @@ This is a paper list for distributed representation of text.
 [10]: http://www.aclweb.org/anthology/P14-1062
 [11]: https://www.aclweb.org/anthology/N19-1419
 [12]: http://xxx.itp.ac.cn/pdf/1906.08237.pdf
+[13]: http://xxx.itp.ac.cn/pdf/1906.02715.pdf
+[14]: http://xxx.itp.ac.cn/pdf/1905.05950.pdf
+[15]: http://xxx.itp.ac.cn/pdf/1904.07531v1
+[16]: http://xxx.itp.ac.cn/pdf/1904.07334v1
+[17]: http://xxx.itp.ac.cn/pdf/1903.05987v2
