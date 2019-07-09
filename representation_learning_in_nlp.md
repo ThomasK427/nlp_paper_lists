@@ -38,6 +38,8 @@ This is a paper list for representation learning in natural language processing.
 
 - Matthew E. Peters et al. To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks. arXiv preprint 2019. [[paper]][17]
 
+- Kevin Clark et al. What Does BERT Look At?An Analysis of BERT’s Attention. ACL 2019 workshop. [[paper]][18]
+
 [1]: http://xxx.itp.ac.cn/abs/1301.3781
 [2]: http://xxx.itp.ac.cn/abs/1310.4546
 [3]: http://xxx.itp.ac.cn/abs/1405.4053
@@ -55,3 +57,4 @@ This is a paper list for representation learning in natural language processing.
 [15]: http://xxx.itp.ac.cn/pdf/1904.07531v1
 [16]: http://xxx.itp.ac.cn/pdf/1904.07334v1
 [17]: http://xxx.itp.ac.cn/pdf/1903.05987v2
+[18]: http://xxx.itp.ac.cn/pdf/1906.04341.pdf
