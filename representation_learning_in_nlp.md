@@ -18,15 +18,15 @@ This is a paper list for representation learning in natural language processing.
 
 - Jeremy Howard, Sebastian Ruder. Universal Language Model Fine-tuning for Text Classification. ACL 2018. [[paper]][7]  
 
-- Jacob Devlin et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv preprint. [[paper]][8]
+- Jacob Devlin et al. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL 2019 Best Long Paper. [[paper]][8]
 
-- Zhouhan Lin et al. A Structured Self-attentive Sentence Embedding. arXiv preprint. [[paper]][9]
+- Zhouhan Lin et al. A Structured Self-attentive Sentence Embedding. ICLR 2017. [[paper]][9]
 
 - Nal Kalchbrenner et al. A Convolutional Neural Network for Modelling Sentences. ACL 2014. [[paper]][10]
 
 - John Hewitt, Christopher D. Manning. A Structural Probe for Finding Syntax in Word Representations. NAACL 2019. [[paper]][11]
 
-- Zhilin Yang et al. XLNet: Generalized Autoregressive Pretrainingfor Language Understanding. arXiv preprint 2019. [[paper]][12]
+- Zhilin Yang et al. XLNet: Generalized Autoregressive Pretraining for Language Understanding. arXiv preprint 2019. [[paper]][12]
 
 - Andy Coenen et al. Visualizing and Measuring the Geometry of BERT. arXiv preprint 2019. [[paper]][13]
 
@@ -34,7 +34,7 @@ This is a paper list for representation learning in natural language processing.
 
 - Yifan Qiao et al. Understanding the Behaviors of BERT in Ranking. arXiv preprint 2019. [[paper]][15]
 
-- Masahiro Kaneko, Mamoru Komachi. Multi-Head Multi-Layer Attention to DeepLanguage Representations for GrammaticalError Detection. arXiv preprint 2019. [[paper]][16]
+- Masahiro Kaneko, Mamoru Komachi. Multi-Head Multi-Layer Attention to Deep Language Representations for Grammatical Error Detection. arXiv preprint 2019. [[paper]][16]
 
 - Matthew E. Peters et al. To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks. arXiv preprint 2019. [[paper]][17]
 
