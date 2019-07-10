@@ -4,7 +4,7 @@ This is a paper list for representation learning in natural language processing.
 
 ## Paper List
 
-- Tomas Mikolov et al. Efficient Estimation of Word Representations in Vector Space. arXiv preprint. [[paper]][1] 
+- Tomas Mikolov et al. Efficient Estimation of Word Representations in Vector Space. ICLR workshop 2013. [[paper]][1] 
 
 - Tomas Mikolov et al. Distributed Representations of Words and Phrases and their Compositionality. NIPS 2013. [[paper]][2]  
 
