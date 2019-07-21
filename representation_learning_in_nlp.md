@@ -42,6 +42,8 @@ This is a paper list for representation learning in natural language processing.
 
 - Ian Tenney et al. What do you learn from context? Probing for sentence structure in contextualized word representations. ICLR 2019. [[paper]][19]
 
+- Ganesh Jawahar et al. What does BERT learn about the structure of language?. ACL 2019. [[paper]][20]
+
 [1]: http://xxx.itp.ac.cn/abs/1301.3781
 [2]: http://xxx.itp.ac.cn/abs/1310.4546
 [3]: http://xxx.itp.ac.cn/abs/1405.4053
@@ -61,3 +63,4 @@ This is a paper list for representation learning in natural language processing.
 [17]: http://xxx.itp.ac.cn/pdf/1903.05987v2
 [18]: http://xxx.itp.ac.cn/pdf/1906.04341.pdf
 [19]: http://xxx.itp.ac.cn/pdf/1905.06316v1
+[20]: https://hal.inria.fr/hal-02131630/document
